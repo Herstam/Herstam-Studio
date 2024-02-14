@@ -17,6 +17,6 @@ function calculation_grade(score){
     return grade
 }
 
-let student1 = calculation_grade(60)
+let student1 = calculation_grade(55)
 
 console.log(student1)
