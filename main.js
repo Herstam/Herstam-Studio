@@ -20,5 +20,3 @@ function calculation_grade(score){
 let student1 = calculation_grade(75)
 
 console.log(student1)
-
-//new
